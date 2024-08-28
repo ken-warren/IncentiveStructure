@@ -28,11 +28,12 @@ As Company X tracks the number of tasks completed by each field agents daily ove
 ## Tools
 The following tools were used;
 
-1. **Python**:
+1. **Python**;
 - **Pandas** - For data manipulation
 - **Numpy** - For numerical operations and calculations
 - **Matplotlib** - For data visualizations and plots
 - **Seaborn** - For advanced data visualizations
 
 2. **Excel** - For data storage and review
+
 3. **Jupyter Notebook** - IDE for writing and running python codes, dispalying visuals and documenting the analysis report.
