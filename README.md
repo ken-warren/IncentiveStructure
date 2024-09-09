@@ -19,7 +19,7 @@ As Company X tracks the number of tasks completed by each field agents daily ove
 
 ## Objectives
 1. To analyze individual and overall agents performance by calculating mean, median, standard deviation, minimum and maximum of the number of tasks completed.
-2. To design an easy to understand and implement incentive structure by;
+2. To design an easy to understand and implement incentive  by;
  a) Developing a per-task payment rate that meets the financial criteria.
  b) Proposing a weekly performance bonus to motivate the agents near the top performers.
 
@@ -33,7 +33,10 @@ The following tools were used;
 - **Numpy** - For numerical operations and calculations
 - **Matplotlib** - For data visualizations and plots
 - **Seaborn** - For advanced data visualizations
+- **sklearn.cluster(KMeans)** - For performing clustering analysis
+- **sklearn.preprocessing(StandardScaler)** - Used to normalize data before clustering
+- **sklearn.metrics(silhouette_score)** - For assessing how well the data points have been clustered 
 
 2. **Excel** - For data storage and review
 
-3. **Jupyter Notebook** - IDE for writing and running python codes, dispalying visuals and documenting the analysis report.
+3. **Jupyter Notebook** - IDE for writing and running python codes, displaying visuals and documenting the analysis report.
