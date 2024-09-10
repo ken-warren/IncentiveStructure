@@ -22,7 +22,6 @@ As Company X tracks the number of tasks completed by each field agents daily ove
 2. To design an easy to understand and implement incentive  by;
  a) Developing a per-task payment rate that meets the financial criteria.
  b) Proposing a weekly performance bonus to motivate the agents near the top performers.
-
 3. To offer data-driven insights into agent performance and recommend ways to improve agent productivity and satisfaction.
 
 ## Tools
