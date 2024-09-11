@@ -42,7 +42,7 @@ The following tools were used;
 3. **Jupyter Notebook** - IDE for writing and running python codes, displaying visuals and documenting the analysis report.
 
 ## Data Source
-The dataset file can be found [here](docs\Synthetic Agent Data.xlsx). It consists of 0-83 days entries represented as rows and 1201 columns representing the field agents. 
+The dataset file can be found [here](https://github.com/ken-warren/IncentiveStructure/blob/main/docs/Synthetic%20Agent%20Data.xlsx). It consists of 0-83 days entries represented as rows and 1201 columns representing the field agents. 
 
 ## Data Cleaning
 The following steps were undertaken through jupyter notebook to ensure the data was fit for analysis:
