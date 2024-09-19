@@ -86,10 +86,12 @@ After conducting data analysis using Jupyter Notebook, the following results wer
 
 2. **Clustering Analysis**
 
-![image](https://github.com/ken-warren/IncentiveStructure/blob/main/img/ElbowMethod.jpg)
+![ElbowMethod](https://github.com/user-attachments/assets/8a4ddf40-d74f-49e9-a273-654efb0ba70a)
+
 - The 'elbow' is around 3 clusters, it suggests that 3 is the optimal number of clusters for this data. Based on this inference, we will have the 3 clusters as; low, moderate and high performers. 
 
-![Image](https://github.com/ken-warren/IncentiveStructure/blob/main/img/Clusters.jpg)
+![Clusters](https://github.com/user-attachments/assets/c2b403e2-5b7c-41cc-b26f-0e3ee700705c)
+
 
 *Low Performers (Red)*
 - These Field Agents have low mean values for tasks performed, approximately below 2 tasks.
@@ -186,7 +188,8 @@ To keep the Compensation per task within the financial limit of KSH 300, the bon
 4. **Financial Evaluation**
 
 The total compensation cost per task across all agents is approximately KSH 323,150.
-![image](https://github.com/ken-warren/IncentiveStructure/blob/main/img/AvgCompensation.jpg)
+
+![AvgCompensation](https://github.com/user-attachments/assets/3659f87b-6577-423d-8205-e04859f3d7cf)
 
 ## Conclusion
 
